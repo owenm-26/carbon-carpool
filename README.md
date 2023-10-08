@@ -3,7 +3,7 @@ Carbon Carpool creates an incentive for a green commuting by rewarding carpools 
 
 # Team
 <img src="https://pbs.twimg.com/media/F77ZjyMacAAodhp?format=jpg&name=large" alt="BU Hack4Impact x BU Blockchain" height="50%"/>
-<a href="mkuang@bu.edu">Melissa Kuang</a> <a href="omariani@bu.edu">Owen Mariani</a> <a href="agkrish@bu.edu">Krish Agarwal</a>
+<a href="https://www.linkedin.com/in/melissa-kuang/">Melissa Kuang</a> <a href="https://www.linkedin.com/in/owen-mariani/">Owen Mariani</a> <a href="https://www.linkedin.com/in/krish-ashish-agarwal/">Krish Agarwal</a>
 
 # Description
 Carbon Carpool creates an incentive for a sustainable practice everybody knows of, but little do. It lets users be rewarded for green commuting by connecting with a friend, coworker, or classmate through an easy to use dApp. The idea is that we make carpooling, a habitual practice in nature, more of an immediate reward. People are aware that they save gas money, but we happen to have a tendency that money saved is very different from money earned.
