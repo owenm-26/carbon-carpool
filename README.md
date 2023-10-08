@@ -2,7 +2,7 @@
 Carbon Carpool creates an incentive for a green commuting by rewarding carpools with a friend, coworker, or classmate through our dApp. This project was started at the Vechain x Easy A Hackathon October 2023.
 
 # Team
-![BU Hack4Impact x BU Blockchain](https://pbs.twimg.com/media/F77ZjyMacAAodhp?format=jpg&name=large){ height=50% }
+![BU Hack4Impact x BU Blockchain](https://pbs.twimg.com/media/F77ZjyMacAAodhp?format=jpg&name=large | width=100)
 [Krish Agarwal](agkrish@bu.edu) [Melissa Kuang](mkuang@bu.edu) [Owen Mariani](omariani@bu.edu)
 
 # Description
