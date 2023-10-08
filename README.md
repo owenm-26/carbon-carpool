@@ -3,7 +3,6 @@ Carbon Carpool creates an incentive for a green commuting by rewarding carpools 
 
 # Team
 <img src="https://pbs.twimg.com/media/F77ZjyMacAAodhp?format=jpg&name=large" alt="BU Hack4Impact x BU Blockchain" height="50%"/>
-(From left to right) 
 [Melissa Kuang](mkuang@bu.edu) [Owen Mariani](omariani@bu.edu) [Krish Agarwal](agkrish@bu.edu)
 
 # Description
