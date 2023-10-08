@@ -13,23 +13,12 @@ By acknowledging this shortcoming in mentality and citing it as part of the reas
 With Carbon Carpool we can make a dent and curb carbon emissions.
 
 # Promotional Materials
-<ul>
-  <li>
-    [Pitch Slides](https://www.canva.com/design/DAFwpKOAVq8/z63Oyv1o-LloUW-lGJzFQw/edit?utm_content=DAFwpKOAVq8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  </li>
-  <li>
-    [Implementation Plan](https://docs.google.com/document/d/16vzvLWkGXCXBRW0BOU0rvn1Y76osaFT38RABQdiBe-k/edit?usp=sharing)
-  </li>
-  <li>
-    [Figma Mock-up](https://www.figma.com/file/naNvgafuKt32ZkEnVHemBy/Carbon-Carpool?type=design&node-id=0%3A1&mode=design&t=PkYrGpIkr0xO3X8y-1)
-  </li>
-  <li>
-    [Twitter Post](https://twitter.com/krishagarwal278/status/1711044125607481548/photo/1)
-  </li>
-  <li>
-    [One Pager](https://docs.google.com/presentation/d/1gmOH1GnZDJtoXkYwf2ERrHtrldC8CN3H/edit#slide=id.p1)
-  </li>
-</ul>
+- [Pitch Slides](https://www.canva.com/design/DAFwpKOAVq8/z63Oyv1o-LloUW-lGJzFQw/edit?utm_content=DAFwpKOAVq8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Implementation Plan](https://docs.google.com/document/d/16vzvLWkGXCXBRW0BOU0rvn1Y76osaFT38RABQdiBe-k/edit?usp=sharing)
+- [Figma Mock-up](https://www.figma.com/file/naNvgafuKt32ZkEnVHemBy/Carbon-Carpool?type=design&node-id=0%3A1&mode=design&t=PkYrGpIkr0xO3X8y-1)
+- [Twitter Post](https://twitter.com/krishagarwal278/status/1711044125607481548/photo/1)
+- [One Pager](https://docs.google.com/presentation/d/1gmOH1GnZDJtoXkYwf2ERrHtrldC8CN3H/edit#slide=id.p1)
+
 
 
 
